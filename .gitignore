@@ -26,6 +26,7 @@
 bin/
 gen/
 obj/
+libs/
 android/
 
 *.d
